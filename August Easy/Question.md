@@ -10,16 +10,16 @@ Given a number N, print the first N members of the sequence.
 
 Since the numbers can be large, output every number in the sequence modulo 10^9+7.
 
-# Input
+### Input
 
 First line of the input contains a single integer T denoting the number of the test cases. Each of the next T lines follow, with each line containing a single integer 
 N.
 
-# Output
+### Output
 
 For each and every test-case, print the required sequence of integers separated by a single space.
 
-# Constraints
+### Constraints
 
 1≤T,N≤10^5
 
